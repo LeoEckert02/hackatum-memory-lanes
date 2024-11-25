@@ -8,7 +8,7 @@ Explore the live project at [memory-lanes.vercel.app](https://memory-lanes.verce
 ### 🎧 Scan to Hear a Real Story  
 ![QR Code](./qr-code.png)  
 
-Scan the QR code to listen to a real story! If you can’t scan it, you can [visit the story directly here](https://memory-lanes.vercel.app/story/90bkvreky8nv8q3).  
+Scan the QR code to listen to a real story! If you can’t scan it, you can visit the story directly at [memory-lanes.vercel.app/story/90bkvreky8nv8q3](https://memory-lanes.vercel.app/story/90bkvreky8nv8q3).  
 
 ### 📜 Hackathon Submission Page
 For more details about the project, check out the [Memory Lanes submission on Devpost](https://devpost.com/software/memory-lanes).  
