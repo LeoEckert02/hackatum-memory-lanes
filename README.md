@@ -1,6 +1,6 @@
 # Memory Lanes  
 
-*Disclaimer:* This project was created during [Hacktum 2024](https://www.hacktum.de/), a hackathon with over 670 participants and 211 projects. As a result, the frontend code may not be fully optimized or organized. Memory Lanes was the **runner-up winner for the City of Munich challenge** 🏆 and also the **popular vote winner** 🗳️, earning the most votes among all participating projects.  
+*Disclaimer:* This project was created during [Hacktum 2024](https://www.hack.tum.de/), a hackathon with over 670 participants and 211 projects. As a result, the frontend code may not be fully optimized or organized. Memory Lanes was the **runner-up winner for the City of Munich challenge** 🏆 and also the **popular vote winner** 🗳️, earning the most votes among all participating projects.  
 
 ### 🌐 Visit the Project  
 Explore the live project at [memory-lanes.vercel.app](https://memory-lanes.vercel.app/).  
