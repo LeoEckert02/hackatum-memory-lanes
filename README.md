@@ -6,8 +6,9 @@
 Explore the live project at [memory-lanes.vercel.app](https://memory-lanes.vercel.app/).  
 
 ### 🎧 Scan to Hear a Real Story  
-<img src="./qr-code.png" alt="QR Code" width="200" />
-
+<div style="display: flex; justify-content: center;">
+  <img src="./qr-code.png" alt="QR Code" width="200" />
+</div>
 Scan the QR code to listen to a real story! If you can’t scan it, you can visit the story directly at [memory-lanes.vercel.app/story/90bkvreky8nv8q3](https://memory-lanes.vercel.app/story/90bkvreky8nv8q3).  
 
 ### 📜 Hackathon Submission Page
